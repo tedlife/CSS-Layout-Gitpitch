@@ -1,2 +1,5 @@
 # CSS-Layout-Gitpitch
-使用 Gitpitch 制作了关于 CSS 布局的直播上课的幻灯片. 查看地址：https://gitpitch.com/tedlife/css-layout-gitpitch
+
+Udacity 前端入门优等生互助班 9 期第一次直播课件。
+
+查看地址：https://gitpitch.com/tedlife/css-layout-gitpitch
